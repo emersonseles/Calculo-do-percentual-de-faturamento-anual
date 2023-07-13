@@ -1,0 +1,1 @@
+# Calculo do percentual de faturamento anual
